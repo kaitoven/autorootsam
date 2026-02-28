@@ -1,4 +1,4 @@
-# Root-STC-SAM 2.1++-TL (Verson 01 start)
+# Root-STC-SAM 2.1++-TL (小试牛刀)
 
 **TL = Time-lapse aware**, designed for PRMI minirhizotron data where frames are sampled every **~10–30+ days**.
 
